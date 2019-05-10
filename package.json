@@ -1,0 +1,26 @@
+{
+  "name": "using-ts-aliases-in-cypress-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel serve index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahmutov/using-ts-aliases-in-cypress-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bahmutov/using-ts-aliases-in-cypress-tests/issues"
+  },
+  "homepage": "https://github.com/bahmutov/using-ts-aliases-in-cypress-tests#readme",
+  "devDependencies": {
+    "cypress": "3.2.0",
+    "parcel-bundler": "1.12.3",
+    "typescript": "3.4.5"
+  }
+}
